@@ -1,3 +1,3 @@
 def call() {
-  echo "hello from git"
+  sh "echo hello from git"
 }
